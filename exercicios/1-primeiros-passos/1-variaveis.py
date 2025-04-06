@@ -16,4 +16,4 @@ print('Numero Inteiro:', num_int, 'Numero Float:', num_float)
 # Declare uma variável do tipo booleano
 verdadeiro = True
 falso = False
-print ('Se e', verdadeiro, ', nao e falso', falso)
+print ('Se e verdadeiro a variavel e =', verdadeiro, ', se nao e falso, variavel =', falso)
